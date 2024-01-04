@@ -11,3 +11,5 @@
 1. Post-order traversal - print left, right, root
 1. Height
 1. Depth
+1. Size
+1. Leaves
