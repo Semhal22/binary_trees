@@ -13,3 +13,7 @@
 1. Depth
 1. Size
 1. Leaves
+1. Nodes
+1. Balance Factor
+1. Is full
+
