@@ -4,3 +4,5 @@
 1. Insert left
 1. Insert right
 1. Delete
+1. Is leaf - no left and right child
+1. Is root
