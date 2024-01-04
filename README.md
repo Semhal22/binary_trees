@@ -3,3 +3,4 @@
 1. New node
 1. Insert left
 1. Insert right
+1. Delete
