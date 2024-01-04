@@ -6,3 +6,8 @@
 1. Delete
 1. Is leaf - no left and right child
 1. Is root
+1. Pre-order traversal - print root, left, right
+1. In-order traversal - print left, root, right
+1. Post-order traversal - print left, right, root
+1. Height
+1. Depth
